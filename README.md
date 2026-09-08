@@ -102,6 +102,6 @@ The **RandomForestClassifier** was selected after comparing multiple models. It 
 
 ## 👤 Author
 
-**Jay Kumbhar**
-📧 jaykumbhar518@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/jaykumbhar5121) | 💻 [GitHub](https://github.com/jay51211)
+**Vedant Bagal**
+📧 vedantbagal05@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/) | 💻 [GitHub](https://github.com/)
